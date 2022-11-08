@@ -8,7 +8,7 @@ SMTPLIB Module -for sending mails using SMTP
 
 The app uses gmail SMTP you need a gmail account and google app password to use the app. You can run this code from the terminal ensure your pc internet is active.
 
-To create a google app password follow the instruction in the link below
+To create a google app password follow the instruction in the link
 https://support.google.com/accounts/answer/185833?hl=en
 
 # O T P - V e r i f i c a t i o n - A p p
